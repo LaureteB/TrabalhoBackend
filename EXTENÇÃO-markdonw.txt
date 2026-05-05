@@ -1,0 +1,4 @@
+instale essa extensão para ver o README.MD no vscode
+
+
+https://marketplace.visualstudio.com/items?itemName=Readme-Preview-Extension.readme-preview-extension
